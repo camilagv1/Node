@@ -1,0 +1,22 @@
+{
+    "name": "entorno",
+    "version": "1.0.0",
+    "description": "prueba de git",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/camilagv1/Node.git"
+    },
+    "author": "Camila Grajales",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/camilagv1/Node/issues"
+    },
+    "homepage": "https://github.com/camilagv1/Node#readme",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
